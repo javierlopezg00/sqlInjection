@@ -1,0 +1,19 @@
+.background-image {
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 89.8vh; 
+    width: 100vw;
+    background-position: center; 
+  }
+
+.textDiv{
+    color: white;
+    background-color: #3a3a3a7d;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    padding: 1.5% 1.8%;
+}

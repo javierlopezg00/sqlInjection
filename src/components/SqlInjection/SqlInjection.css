@@ -1,0 +1,8 @@
+.centerBox{
+    display: flex;
+    justify-content: center;
+    
+}
+.mainBox{
+    width: 50%;
+}
